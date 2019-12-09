@@ -5,12 +5,6 @@ import com.tong.redisdistributedlock.service.impl.RedisDistributedLockImpl;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author tong.yuan
- * @date 2019/11/13
- * @description
- */
-
 public class Main {
 
     public static void main(String[] args) {

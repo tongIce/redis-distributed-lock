@@ -11,12 +11,6 @@ import javax.annotation.PostConstruct;
 import java.util.concurrent.TimeUnit;
 
 
-/**
- * @author tong.yuan
- * @date 2019/11/12
- * @description
- */
-
 @Service
 @Slf4j
 public class RedisDistributedLockImpl implements RedisDistributedLockService {

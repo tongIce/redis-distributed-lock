@@ -2,11 +2,6 @@ package com.tong.redisdistributedlock.service;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author tong.yuan
- * @date 2019/11/12
- * @description
- */
 
 public interface RedisDistributedLockService {
 

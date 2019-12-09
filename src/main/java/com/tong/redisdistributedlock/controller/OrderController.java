@@ -13,11 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author tong.yuan
- * @date 2019/11/12
- * @description
- */
 
 @RestController
 @RequestMapping(value = "order")
